@@ -9,16 +9,29 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Embedded Systems**: Software for microcontrollers.
 
 ## 🔧 Technology Stack:
-JavaScript, Python, Java, C++, Assembler (CPU: x86_64, ARM8, MCU: ESP32, STM32, Arduino).
+### Programming Languages 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Low Level Programming (Assembler)
+CPU: x86_64 (NASM, MASM), ARM8 (Clang) 
+
+MCU: ESP32, STM32, Atmega328P
+
+### Testing Frameworks
+Jest,  
 
 ---
 
 ## Practical Achievements 📊
 
-### Codewars
-Languages:  
+### Codewars  
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
 
+Languages:
 - JavaScript - 6 kyu  
 - Python - 6 kyu  
 - C++ - 6 kyu  
@@ -27,6 +40,7 @@ Languages:
 ---
 
 ### Hack The Box
+#### Academician
 <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="200">
 
 
