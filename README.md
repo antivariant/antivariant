@@ -17,7 +17,7 @@ JavaScript, Python, Java, C++, Assembler (CPU: x86_64, ARM8, MCU: ESP32, STM32, 
 
 ### Codewars
 Languages:  
-![Codewars](https://github.r2v.ch/codewars?user=antivariant&stroke=%23AFAFAF)
+<img src="https://www.codewars.com/users/antivarian/badges/large" alt="Codewars">
 
 - JavaScript - 6 kyu  
 - Python - 6 kyu  
