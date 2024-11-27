@@ -59,10 +59,10 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-
+<h2>🔧 Technology Stack</h2>
 <details>
 
-<summary><h2>🔧 Technology Stack</h2></summary> 
+<summary>Expand the technology list that I use</summary> 
 
 ### Programming Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -182,10 +182,10 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 
 ---
 
+<h2>  💻 My Hardware </h2>
+
 <details>
-<summary>
-  <h2>  💻 My Hardware </h2>
-</summary>
+<summary>Expand the list of hardware I use</summary>
 
 
 ### Computers and Mobile Devices
