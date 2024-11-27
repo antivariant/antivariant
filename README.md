@@ -13,15 +13,16 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ---
 
-## Practical Achievements (CTF) 📊
+## Practical Skills (CTF) 📊
 
 ### Codewars  
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - 6 kyu  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 6 kyu  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) - 6 kyu  
-![NASM](https://img.shields.io/badge/NAMS_(Assembler)-green) - 7 kyu
+![JavaScriptLevel](https://img.shields.io/badge/JavaScript-6_kyu-blue?logo=javascript)
+![PythonLevel](https://img.shields.io/badge/Python-6_kyu-blue?logo=python)
+![CPPLevel](https://img.shields.io/badge/C++-6_kyu-blue?logo=cplusplus)
+![NASM](https://img.shields.io/badge/NASM(Assembler)-7_kyu-blue?logo=intel)
+
 
 ---
 
