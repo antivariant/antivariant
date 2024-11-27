@@ -12,6 +12,52 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
 ---
+
+## Practical Achievements (CTF) 📊
+
+### Codewars  
+<img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
+
+Languages:
+- JavaScript - 6 kyu  
+- Python - 6 kyu  
+- C++ - 6 kyu  
+- Assembler (NASM x86_64)
+
+---
+
+### Hack The Box
+#### Academician
+<img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="100">
+
+
+---
+
+### Crackmes.one (Reverse Engineering)
+[Crackmes.one Profile](https://crackmes.one/user/antivariantum)  
+Tasks solved: **N**, difficulty: Easy → Hard.
+
+---
+
+### Cryptography
+[Cryptohack Profile](https://cryptohack.org/user/YOUR_USERNAME/)  
+Points: **X**, challenges solved: **Y**.
+
+---
+
+### Quantum Computing
+//Worked on tasks at [IBM Quantum Experience](https://quantum-computing.ibm.com/).  
+//Practical achievements include Grover’s Algorithm and Quantum Teleportation.
+
+---
+
+### Artificial Intelligence
+//- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
+//- **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities.
+
+---
+
+
 <details>
 
 <summary><h2>🔧 Technology Stack</h2></summary> 
@@ -168,60 +214,24 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
 
 ---
 
-## Practical Achievements (CTF) 📊
-
-### Codewars  
-<img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
-
-Languages:
-- JavaScript - 6 kyu  
-- Python - 6 kyu  
-- C++ - 6 kyu  
-- Assembler (NASM x86_64)
-
----
-
-### Hack The Box
-#### Academician
-<img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="100">
-
-
----
-
-### Crackmes.one (Reverse Engineering)
-[Crackmes.one Profile](https://crackmes.one/user/antivariantum)  
-Tasks solved: **N**, difficulty: Easy → Hard.
-
----
-
-### Cryptography
-[Cryptohack Profile](https://cryptohack.org/user/YOUR_USERNAME/)  
-Points: **X**, challenges solved: **Y**.
-
----
-
-### Quantum Computing
-Worked on tasks at [IBM Quantum Experience](https://quantum-computing.ibm.com/).  
-Practical achievements include Grover’s Algorithm and Quantum Teleportation.
-
----
-
-### Artificial Intelligence
-- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
-- **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities.
-
----
-
 ## GitHub Statistics 📈
 
 ### Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=antivariant&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=antivariant&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
 
 ### Stats
-![GitHub Stats](https://github-readme-stats-antivariants-projects.vercel.app/api?username=antivariant&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats-antivariants-projects.vercel.app/api?username=antivariant&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
 
 ### Top Languages
-![Top Languages](https://github-readme-stats-antivariants-projects.vercel.app/api/top-langs/?username=antivariant&layout=compact&theme=dark&hide=php,html,css,Smarty,MATLAB,Mustache)
+<div align="center">
+  <img src="https://github-readme-stats-antivariants-projects.vercel.app/api/top-langs/?username=antivariant&layout=compact&theme=dark&hide=php,html,css,Smarty,MATLAB,Mustache" alt="Top Languages">
+</div>
 
 ---
 
