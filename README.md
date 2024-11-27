@@ -18,11 +18,10 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ### Codewars  
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
 
-Languages:
-- JavaScript - 6 kyu  
-- Python - 6 kyu  
-- C++ - 6 kyu  
-- Assembler (NASM x86_64)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) - 6 kyu  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 6 kyu  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) - 6 kyu  
+![NASM](https://img.shields.io/badge/NAMS_(Assembler)-green) - 7 kyu
 
 ---
 
