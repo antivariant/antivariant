@@ -47,8 +47,9 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 ---
 
 ### Quantum Computing
-//Worked on tasks at [IBM Quantum Experience](https://quantum-computing.ibm.com/).  
-//Practical achievements include Grover’s Algorithm and Quantum Teleportation.
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+
+
 
 ---
 
