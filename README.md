@@ -12,8 +12,10 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
 ---
+<details>
 
-## 🔧 Technology Stack:
+<summary><h2>🔧 Technology Stack</h2></summary> 
+
 ### Programming Languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -56,7 +58,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ---
 
 ### Pentesting (main) Tools
-Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, Netcat, Virtualisation (VMware, VirtualBox, Docker)
+Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, URH, rtl-sdr, dsd, GQRX, SDR#, Artemis, Audacity, Virtualisation (VMware, VirtualBox, Docker), Linux network tools (nc, ssh, curl etc)
 
 ---
 
@@ -64,7 +66,7 @@ Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, Netcat, Virtuali
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
-KiCAD, Prometheus, LTspice, Ghidra, GDB, LLDB
+KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
 
 ---
 
@@ -115,20 +117,34 @@ KiCAD, Prometheus, LTspice, Ghidra, GDB, LLDB
 
 ---
 
-### Management Software
+### Management and Organizing Software
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+</details>
 
 ---
 
-##  💻 Hardware
+<details>
+<summary>
+  <h2>  💻 My Hardware </h2>
+</summary>
 
 
-### Software Development and Testing Hardware
+### Computers and Mobile Devices
+- MacBook m1 Pro
+- Lenovo IdeaPad L340-15irh Gaming (Core i5, Nvidia GeForce GTX1050 3Gb CUDA, 8Gb DDR4, SSD 512Gb) with dual boot Windows11 and Kali Linux
+- iPhone SE2020  
+- iPad Pro (11" 2nd gen)
+- Xiaomi Redmi 8T (Android)
 
 ---
 
 ### Pentesting Hardware
+- 
+
+
+### Reverse Engineering Hardware
 
 ---
 
@@ -148,10 +164,11 @@ KiCAD, Prometheus, LTspice, Ghidra, GDB, LLDB
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+</details>
 
 ---
 
-## Practical Achievements 📊
+## Practical Achievements (CTF) 📊
 
 ### Codewars  
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
@@ -166,12 +183,12 @@ Languages:
 
 ### Hack The Box
 #### Academician
-<img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="200">
+<img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="100">
 
 
 ---
 
-### Reverse Engineering
+### Crackmes.one (Reverse Engineering)
 [Crackmes.one Profile](https://crackmes.one/user/antivariantum)  
 Tasks solved: **N**, difficulty: Easy → Hard.
 
