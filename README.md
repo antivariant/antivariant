@@ -13,7 +13,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ---
 
-## Practical Skills (CTF) 📊
+## ⌨️ Practical Skills (CTF) 
 
 <h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars </h3>
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
@@ -39,9 +39,10 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### Cryptography
-[Cryptohack Profile](https://cryptohack.org/user/YOUR_USERNAME/)  
-Points: **X**, challenges solved: **Y**.
+### CRYPTOHACK (Cryptography)
+![Cryptohack Score](https://img.shields.io/badge/dynamic/json?color=blue&label=Cryptohack%20Score&query=$.score&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
+![Cryptohack Level](https://img.shields.io/badge/dynamic/json?color=yellow&label=Level&query=$.level&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
+![Challenges Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Challenges%20Solved&query=$.solved_challenges.length&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
 
 ---
 
