@@ -15,7 +15,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ## Practical Skills (CTF) 📊
 
-### Codewars  
+<h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars </h3>
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
 
 ![JavaScriptLevel](https://img.shields.io/badge/JavaScript-6_kyu-blue?logo=javascript)
@@ -26,7 +26,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ---
 
-### Hack The Box
+### <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> Hack The Box
 #### Academician
 <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="100">
 
