@@ -221,7 +221,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=antivariant&theme=dark" alt="GitHub Streak">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-eta.vercel.app?user=antivariant&theme=dark" alt="GitHub Streak" /></a>
   </a>
 </div>
 
