@@ -11,6 +11,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Project and Team Management**: Led a team of 10 testers across 7 simultaneous projects.
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
+---
 
 ## 🔧 Technology Stack:
 ### Programming Languages 
@@ -20,9 +21,13 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+---
+
 ### 🔬 Low Level Programming (Assembler)
 - **CPU**: x86_64 (NASM, MASM), ARM8 (Clang) 
 - **MCU**: ESP32, ESP8266, STM32, ATmega328P, nRF52840
+
+---
 
 ### Testing Frameworks and Utilities
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -34,30 +39,38 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+---
+
 ### Backend Platforms, Frameworks and Libraries
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+---
 
 ### Frontend Platform, Frameworks and Libraries
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
 
+---
 
 ### Pentesting (main) Tools
+Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, Netcat, Virtualisation (VMware, VirtualBox, Docker)
 
+---
 
 ### Reverse Engineering Software and MCU Programming Platforms and frameworks
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
+KiCAD, Prometheusm LTspice, Ghidra, GDB, LLDB
 
-
+---
 
 ### Version Control, CI/CD
 
+---
 
 ### Servers, Databases and Monitoring, DevOps
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -67,6 +80,9 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+
+---
 
 ### IDE and Build Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -78,23 +94,30 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+---
 
 ### ML/DL (AI) Libraries and Frameworks
+
+---
 
 ### Management Software
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
+---
 
 ##  💻 Hardware
 
 
 ### Software Development and Testing Hardware
 
+---
 
 ### Pentesting Hardware
 
+---
 
 ### OS
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -105,6 +128,8 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+
+---
 
 ### Smart Home
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
