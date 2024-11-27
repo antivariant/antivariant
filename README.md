@@ -54,8 +54,8 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 ---
 
 ### Artificial Intelligence
-//- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
-//- **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities.
+<!-- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
+ **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities. -->
 
 ---
 
@@ -168,6 +168,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
 ### Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+<!--OpenQASM -->
 
 ---
 
