@@ -15,7 +15,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ## ⌨️ Practical Skills (CTF) 
 
-<h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars </h3>
+<h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars (Programming) </h3>
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
 
 ![JavaScriptLevel](https://img.shields.io/badge/JavaScript-6_kyu-blue?logo=javascript)
@@ -26,7 +26,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 
 ---
 
-### <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> Hack The Box
+### <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> Hack The Box (Pentesting)
 #### Academician
 <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Hack The Box Badge" width="100">
 
@@ -46,7 +46,7 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### Quantum Computing
+### IBM Quantum Learning (Quantum Computing)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 
@@ -114,7 +114,7 @@ Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, URH, rtl-sdr, ds
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
-KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
+KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino IDE
 
 ---
 
@@ -196,10 +196,14 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB
 ---
 
 ### Pentesting Hardware
-- 
+HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 
 ### Reverse Engineering Hardware
+- Debuggers and firmware loaders: J-Link, ST-Link
+- Development boards: STM32 (Blue Pill), ESP32 board, ES8266 board, nRF52840 dongle board, Arduino Uno R3, Arduino Nano, Arduino Mini 
+- Soldering: Luckey852D
+- Measurement: VC9808+, GM328, Hantek8022BE, LiteVNA
 
 ---
 
