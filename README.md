@@ -39,7 +39,7 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### CRYPTOHACK (Cryptography)
+### <span style="color:yellow;">CRYPTOHACK</span> (Cryptography)
 ![Cryptohack Score](https://img.shields.io/badge/dynamic/json?color=blue&label=Cryptohack%20Score&query=$.score&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
 ![Cryptohack Level](https://img.shields.io/badge/dynamic/json?color=yellow&label=Level&query=$.level&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
 ![Challenges Solved](https://img.shields.io/badge/dynamic/json?color=green&label=Challenges%20Solved&query=$.solved_challenges.length&url=https://cryptohack.org/api/user/antivariant/&style=for-the-badge)
