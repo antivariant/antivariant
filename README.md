@@ -105,8 +105,10 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### Pentesting (main) Tools
-Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, URH, rtl-sdr, dsd, GQRX, SDR#, Artemis, Audacity, Virtualisation (VMware, VirtualBox, Docker), Linux network tools (nc, ssh, curl etc)
+### Pentesting Tools
+- **The most important:** Burp Suite, Wireshark, Metasploit, Nmap, Hashcat, Airocrack-ng, URH, rtl-sdr, dsd, GQRX, SDR#, Artemis, Audacity, Kuckoo
+- **Virtualisation**: VMware, VirtualBox, Docker
+- **Linux network tools:** nc, ssh, curl, etc..
 
 ---
 
