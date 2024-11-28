@@ -46,7 +46,7 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### IBM Quantum Learning (Quantum Computing)
+### <img height="20" width="20" src="https://learning.quantum.ibm.com/favicon.ico"> IBM Quantum Learning (Quantum Computing)
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
 
