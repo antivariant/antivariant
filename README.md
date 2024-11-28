@@ -191,7 +191,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 <details>
 <summary>Expand the hardware list I'm utilizing...</summary>
 
-  A detailed list of hardware I currently use for my projects, education, and investigations.
+  A detailed list of hardware I currently use for my projects, education, and research.
 
 ### Computers and Mobile Devices
 - MacBook m1 Pro
