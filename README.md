@@ -11,6 +11,8 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Project and Team Management**: Led a team of 10 testers across 7 simultaneous projects.
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
+I'm currently developing a comprehensive educational platform with seven integrated components, including a school, a technical content and marketplace hub, marketing and financial tools, CRM, an admin panel, and a business process management system.
+
 ---
 
 ## ⌨️ Practical Skills (CTF) 
