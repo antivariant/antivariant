@@ -246,8 +246,8 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 ### Stats
 <div align="center">
-  <img height="200" src="https://github-readme-stats-antivariants-projects.vercel.app/api?username=antivariant&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img height="200" src="https://github-readme-stats-antivariants-projects.vercel.app/api/top-langs/?username=antivariant&layout=compact&theme=dark&hide=php,html,css,Smarty,MATLAB,Mustache" alt="Top Languages">
+  <img height="150" src="https://github-readme-stats-antivariants-projects.vercel.app/api?username=antivariant&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats-antivariants-projects.vercel.app/api/top-langs/?username=antivariant&layout=compact&theme=dark&hide=php,html,css,Smarty,MATLAB,Mustache" alt="Top Languages">
 </div>
 
 ---
