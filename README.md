@@ -75,7 +75,7 @@ A detailed list of technologies I currently use in my projects.
 
 ---
 
-### 🔬 Low Level Programming (Assembler)
+### Low Level Programming (Assembler)
 - **CPU**: x86_64 (NASM, MASM), ARM8 (Clang) 
 - **MCU**: ESP32, ESP8266, STM32, ATmega328P, nRF52840
 
@@ -139,6 +139,8 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -254,7 +256,7 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 ---
 
-## Contacts 📬
+## 📬 Contacts 
 - [GitHub](https://github.com/antivariant)
 - [LinkedIn](https://linkedin.com/in/antivariant)
-- [Telegram](https://t.me/YOUR_USERNAME)
+- [Telegram](https://t.me/antivariant)
