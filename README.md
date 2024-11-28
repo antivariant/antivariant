@@ -59,9 +59,9 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-<h2>🔧 Technology Stack</h2>
-<details>
+## 🔧 Technology Stack
 
+<details>
 <summary>Click to expand the technologies I'm using...</summary> 
 
 A detailed list of technologies I currently use in my projects.
@@ -184,7 +184,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 
 ---
 
-<h2>  💻 My Hardware </h2>
+##  💻 My Hardware
 
 <details>
 <summary>Expand the hardware list I'm utilizing...</summary>
