@@ -234,7 +234,7 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 ---
 
-## GitHub Statistics 📈
+## 📈 GitHub Statistics
 
 ### Contributions
 
