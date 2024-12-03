@@ -256,7 +256,7 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 ## 📬 Follow me
 <div align="center">
-<a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /></a> &nbsp;
-<a href="https://linkedin.com/in/igor-gromov-15043883"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/white" /></a> &nbsp;
-<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/white" /></a>
+<a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github/yellow" /></a> &nbsp;
+<a href="https://linkedin.com/in/igor-gromov-15043883"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/yellow" /></a> &nbsp;
+<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/yellow" /></a>
 </div>
