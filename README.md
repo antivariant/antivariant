@@ -55,7 +55,7 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 
 ---
 
-### Artificial Intelligence
+### Artificial Intelligence (Kaggle)
 <!-- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
  **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities. -->
 
