@@ -29,7 +29,6 @@ I'm currently developing a comprehensive educational platform with seven integra
 ---
 
 ### <img height="20" width="20" src="https://cdn.simpleicons.org/hackthebox" /> Hack The Box (Pentesting)
-#### Bages:
 <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academican" width="100"><img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" alt="Unwavering User" width="100">
 
 
