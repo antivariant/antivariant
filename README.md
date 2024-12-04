@@ -15,7 +15,7 @@ I'm currently developing a comprehensive educational platform with seven integra
 
 ---
 
-## ⌨️ Practical Skills (CTF) 
+## ⌨️ Skill Development Journey (CTF, learning) 
 
 <h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars (Programming) </h3>
 <img src="https://www.codewars.com/users/antivariant/badges/small" alt="Codewars">
