@@ -23,7 +23,7 @@ I'm currently developing a comprehensive educational platform with seven integra
 ![JavaScriptLevel](https://img.shields.io/badge/JavaScript-6_kyu-blue?logo=javascript)
 ![PythonLevel](https://img.shields.io/badge/Python-6_kyu-blue?logo=python)
 ![CPPLevel](https://img.shields.io/badge/C++-6_kyu-blue?logo=cplusplus)
-![NASM](https://img.shields.io/badge/NASM(Assembler)-7_kyu-blue?logo=intel)
+![NASM](https://img.shields.io/badge/NASM(Assembler)-8_kyu-blue?logo=intel)
 
 
 ---
