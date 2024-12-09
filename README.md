@@ -36,7 +36,7 @@ I'm currently developing a comprehensive educational platform with seven integra
 
 ### Crackmes.one (Reverse Engineering)
 [Crackmes.one Profile](https://crackmes.one/user/antivariantum)  
-Tasks solved: **N**, difficulty: Easy → Hard.
+Tasks solved: **1**, difficulty: Easy.
 
 ---
 
@@ -55,8 +55,7 @@ Tasks solved: **N**, difficulty: Easy → Hard.
 ---
 
 ### Kaggle (Artificial Intelligence)
-<!-- **NLP Chatbot**: Implemented a chatbot using Python and spaCy.
- **AI for Security**: Built a TensorFlow-based model to identify vulnerabilities. -->
+
 
 ---
 
