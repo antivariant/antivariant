@@ -211,6 +211,7 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 ### Reverse Engineering Hardware
 - Debuggers and Firmware Loaders: J-Link, ST-Link, CH341, USBASP, UART2TTL...
 - MCU Development Boards: STM32 (Blue Pill), ESP32 board, ES8266 board, nRF52840 dongle board, Arduino Uno R3, Arduino Nano, Arduino Mini
+- Components and Boards: a lot of various components, shields, sensors, memory and other boards
 - Power Supply (Lab): PS305D
 - Functional DDS Generator: FG100 
 - Soldering: Luckey852D, Digital Spot Welding for 18650
