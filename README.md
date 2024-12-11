@@ -197,7 +197,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 
 ### Computers and Mobile Devices
 - MacBook m1 Pro
-- Lenovo IdeaPad L340-15irh Gaming (Core i5, Nvidia GeForce GTX1050 3Gb CUDA, 8Gb DDR4, SSD 512Gb) with dual boot Windows11 and Kali Linux
+- Lenovo IdeaPad L340-15irh Gaming (Core i5, Nvidia GeForce GTX1050 3Gb CUDA, 8Gb DDR4, SSD 512Gb) with dual boot Windows 11 and Kali Linux
 - iPhone SE2020  
 - iPad Pro (11" 2nd gen)
 - Xiaomi Redmi 8T (Android)
@@ -209,10 +209,13 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 
 
 ### Reverse Engineering Hardware
-- Debuggers and firmware loaders: J-Link, ST-Link
-- Development boards: STM32 (Blue Pill), ESP32 board, ES8266 board, nRF52840 dongle board, Arduino Uno R3, Arduino Nano, Arduino Mini 
-- Soldering: Luckey852D
+- Debuggers and Firmware Loaders: J-Link, ST-Link, CH341, USBASP, UART2TTL...
+- MCU Development Boards: STM32 (Blue Pill), ESP32 board, ES8266 board, nRF52840 dongle board, Arduino Uno R3, Arduino Nano, Arduino Mini
+- Power Supply (Lab): PS305D
+- Functional DDS Generator: FG100 
+- Soldering: Luckey852D, Digital Spot Welding for 18650
 - Measurement: VC9808+, GM328, Hantek8022BE, LiteVNA
+- and much more...
 
 ---
 
