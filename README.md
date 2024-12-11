@@ -264,8 +264,8 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 
 ## 📬 Follow me
 <div align="center">
-<a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github/orange" /></a> &nbsp;
-<a href="https://linkedin.com/in/igor-gromov-15043883"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange" /></a> &nbsp;
-<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/orange" /></a> &nbsp;
-<a href="<a https://antivariantum.com"><img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/orange" /></a>
+<a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github/orange" alt="gihub"/></a> &nbsp;
+<a href="https://linkedin.com/in/igor-gromov-15043883"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange" alt="linkedin" /></a> &nbsp;
+<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/orange" alt="telegram"/></a> &nbsp;
+<a href="<a https://antivariantum.com"><img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/orange" alt="Blog"/></a>
 </div>
