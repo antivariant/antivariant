@@ -11,7 +11,7 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Project and Team Management**: Led a team of 10 testers across 7 simultaneous projects.
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
-I'm currently developing a comprehensive educational platform with seven integrated components, including a school, a technical content and marketplace hub, marketing and financial tools, CRM, an admin panel, and a business process management system. Additionally, I'm creating a series of SDET training courses as part of this project, which are showcased on [qacedu.com](https://qacedu.com).
+I'm currently developing a comprehensive educational platform with seven integrated components, including a school, a technical content and marketplace hub, marketing and financial tools, CRM, an admin panel, and a business process management system. Additionally, I'm creating a series of SDET training courses as part of this project, which are showcased on [qacedu.com](https://qacedu.com). I also maintain a developer's blog on [antivariantum.com](https://antivariantum.com), where I share technical insights, document the development process, and publish educational articles.
 
 ---
 
@@ -262,5 +262,6 @@ HackRF One, RTL-SDR, nRF52840 Sniffer Dongle, RTL8192 WiFi Dongle
 <div align="center">
 <a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github/orange" /></a> &nbsp;
 <a href="https://linkedin.com/in/igor-gromov-15043883"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/orange" /></a> &nbsp;
-<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/orange" /></a>
+<a href="<a https://t.me/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/orange" /></a> &nbsp;
+<a href="<a https://antivariantum.com"><img height="32" width="32" src="https://cdn.simpleicons.org/wordpress/orange" /></a>
 </div>
