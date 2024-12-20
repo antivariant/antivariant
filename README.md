@@ -250,7 +250,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-eta.vercel.app?user=antivariant&theme=dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="github-readme-streak-stats-one-eta.vercel.app?user=antivariant&theme=dark" alt="GitHub Streak" /></a>
   </a>
 </div>
 
