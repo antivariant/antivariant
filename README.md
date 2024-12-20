@@ -249,8 +249,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 ### Contributions
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gq1qd7u9e-antivariants-projects.vercel.app?user=&theme=dark" alt="GitHub Streak" /></a>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-gq1qd7u9e-antivariants-projects.vercel.app?user=antivariant&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ### Stats
