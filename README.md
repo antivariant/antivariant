@@ -272,7 +272,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 ## 📬 Follow me
 <div align="center">
 <a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="gihub"/></a> &nbsp;
-<a href="[https://linkedin.com/in/igor-gromov-15043883](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883)"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" /></a> &nbsp;
+<a href="[https://linkedin.com/in/igor-gromov-15043883](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883)"><img height="32" width="32" src="LI-In-Bug.png" alt="linkedin" /></a> &nbsp;
   
       <style>
         .libutton {
