@@ -62,8 +62,10 @@ I'm currently developing a comprehensive educational platform with seven integra
 
 ### Other AI-related Certificates
 
-- IBM AI Fundamentals  
-  [![IBM AI Fundamentals](artificial-intelligence-fundamentals.png)](https://www.credly.com/badges/f7f0abaa-6fa7-4a8b-a634-1bd07c06b4d7/public_url)
+- IBM AI Fundamentals
+<a href="[https://www.credly.com/badges/ТВОЙ_ID](https://www.credly.com/badges/f7f0abaa-6fa7-4a8b-a634-1bd07c06b4d7/public_url)">
+  <img src="artificial-intelligence-fundamentals.png" width="120" />
+</a>
 
 ---
 
