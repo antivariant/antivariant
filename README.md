@@ -32,7 +32,6 @@ I'm currently developing a comprehensive educational platform with seven integra
 <img src="https://academy.hackthebox.com/storage/badges/academician.png" alt="Academican" width="100"><img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" alt="Unwavering User" width="100">
 <img src="https://academy.hackthebox.com/storage/badges/tactical.png" alt="Tactical" width="100">
 
-
 ---
 
 ### Crackmes.one (Reverse Engineering)
@@ -59,6 +58,12 @@ I'm currently developing a comprehensive educational platform with seven integra
 ### Kaggle (AI/ML/DL/Data Science)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
+
+
+### Other AI-related Certificates
+
+- IBM AI Fundamentals  
+  [![IBM AI Fundamentals](artificial-intelligence-fundamentals.png)](https://www.credly.com/badges/f7f0abaa-6fa7-4a8b-a634-1bd07c06b4d7/public_url)
 
 ---
 
