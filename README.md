@@ -273,25 +273,6 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 <div align="center">
 <a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="gihub"/></a> &nbsp;
 <a href="[https://linkedin.com/in/igor-gromov-15043883](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883)"><img height="32" width="32" src="LI-In-Bug.png" alt="linkedin" /></a> &nbsp;
-  
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883" target="_blank">Follow on LinkedIn</a>
 <a href="<a https://t.me/generaltester"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="telegram"/></a> &nbsp;
 <!--a href="<a https://antivariantum.com"><img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" alt="Blog"/></a-->
 </div>
