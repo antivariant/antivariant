@@ -15,14 +15,18 @@ I am interested in positions where I can combine hands-on technical work with te
 - **Pentesting**: Security testing and vulnerability exploitation.
 - **Embedded Systems**: Software for microcontrollers.
 - **Smart Home and AI**: Development and integration of smart devices and AI solutions for smart homes.
-- **Project and Team Management**: Led a team of 10 testers across 7 simultaneous projects.
+- **Project and Team Management**: Led a team of 10 testers across 7 concurrent projects.
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
 ## Current Focus
 
-Alongside being open to a **QA / SDET Team Lead** role, I am currently working on an educational and engineering platform focused on software quality, testing, and system design.
+Currently building a personal educational and engineering project related to software quality and testing, while remaining open to a **QA / SDET Team Lead** role.
 
-The project includes hands-on development, technical content, and SDET training materials. I also maintain a technical blog where I document engineering decisions and share practical insights:
+Within this project, I work across multiple roles, including:
+- backend and frontend development
+- test automation and quality assurance
+- infrastructure and DevOps-related tasks
+- designing and authoring SDET training materials
 
 ---
 
