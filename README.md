@@ -56,8 +56,8 @@ I'm currently developing a comprehensive educational platform with seven integra
 ---
 
 ### Kaggle (AI/ML/DL/Data Science)
-- Intro To Machine Learning
-  <img src="Igor Gromov - Intro to Machine Learning.png" width="120" />
+
+<img src="Igor Gromov - Intro to Machine Learning.png" width="250" />
 
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
