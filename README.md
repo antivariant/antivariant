@@ -2,6 +2,13 @@
 
 I am Igor Gromov, a professional specializing in Software Development in Test (SDET), backend programming, penetration testing, and embedded systems development.
 
+## Open to Opportunities
+
+I am currently open to a **QA / SDET Team Lead** role.
+
+I am interested in positions where I can combine hands-on technical work with team leadership, quality strategy, and building reliable engineering processes.
+
+
 ## 🌟 Key Focus Areas:
 - **SDET**: Automated testing frameworks, CI/CD pipelines, and quality assurance.
 - **Programming**: Backend and full-stack development.
@@ -11,7 +18,11 @@ I am Igor Gromov, a professional specializing in Software Development in Test (S
 - **Project and Team Management**: Led a team of 10 testers across 7 simultaneous projects.
 - **Training and Education**: Created and conducted testing courses, training over 100 students.
 
-I'm currently developing a comprehensive educational platform with seven integrated components, including a school, a technical content and marketplace hub, marketing and financial tools, CRM, an admin panel, and a business process management system. Additionally, I'm creating a series of SDET training courses as part of this project, which are showcased on [qacedu.com](https://qacedu.com). I also maintain a developer's blog on [antivariantum.com](https://antivariantum.com), where I share technical insights, document the development process, and publish educational articles.
+## Current Focus
+
+Alongside being open to a **QA / SDET Team Lead** role, I am currently working on an educational and engineering platform focused on software quality, testing, and system design.
+
+The project includes hands-on development, technical content, and SDET training materials. I also maintain a technical blog where I document engineering decisions and share practical insights:
 
 ---
 
