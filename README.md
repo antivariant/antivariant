@@ -73,9 +73,7 @@ Within this project, I work across multiple roles, including:
 ### Kaggle (AI/ML/DL/Data Science)
 
 
-<img src="cert/Igor Gromov - Intro to Machine Learning.png" width="250" />
-&nbsp;
-<img src="cert/Kaggle-Pandas.png" width="250" />
+<img src="cert/Igor Gromov - Intro to Machine Learning.png" width="250" /> &nbsp; <img src="cert/Kaggle-Pandas.png" width="250" />
 
 
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
