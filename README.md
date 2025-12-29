@@ -72,7 +72,11 @@ Within this project, I work across multiple roles, including:
 
 ### Kaggle (AI/ML/DL/Data Science)
 
-<img src="Igor Gromov - Intro to Machine Learning.png" width="250" />
+
+<img src="cert/Igor Gromov - Intro to Machine Learning.png" width="250" />
+&nbsp;
+<img src="cert/Kaggle-Pandas.png" width="250" />
+
 
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
@@ -85,7 +89,7 @@ Within this project, I work across multiple roles, including:
 
 - IBM AI Fundamentals
 <a href="[https://www.credly.com/badges/ТВОЙ_ID](https://www.credly.com/badges/f7f0abaa-6fa7-4a8b-a634-1bd07c06b4d7/public_url)">
-  <img src="artificial-intelligence-fundamentals.png" width="120" />
+  <img src="cert/artificial-intelligence-fundamentals.png" width="120" />
 </a>
 
 ---
@@ -293,7 +297,7 @@ KiCAD, Prometheus, LTspice, Ghidra, Radare 2, GDB, LLDB, STM32CubeIDE, Arduino I
 ## 📬 Follow me
 <div align="center">
 <a href="https://github.com/antivariant"><img height="32" width="32" src="https://cdn.simpleicons.org/github" alt="gihub"/></a> &nbsp;
-<a href="[https://linkedin.com/in/igor-gromov-15043883](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883)"><img height="32" width="32" src="LI-In-Bug.png" alt="linkedin" /></a> &nbsp;
+<a href="[https://linkedin.com/in/igor-gromov-15043883](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=igor-gromov-15043883)"><img height="32" width="32" src="icons/LI-In-Bug.png" alt="linkedin" /></a> &nbsp;
 <a href="<a https://t.me/generaltester"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram" alt="telegram"/></a> &nbsp;
 <!--a href="<a https://antivariantum.com"><img height="32" width="32" src="https://cdn.simpleicons.org/wordpress" alt="Blog"/></a-->
 </div>
