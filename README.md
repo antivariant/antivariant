@@ -73,8 +73,7 @@ Within this project, I work across multiple roles, including:
 ### Kaggle (AI/ML/DL/Data Science)
 
 
-<img src="cert/Igor Gromov - Intro to Machine Learning.png" width="250" /> &nbsp; <img src="cert/Kaggle-Pandas.png" width="250" />  &nbsp; <img src="cert/Igor Gromov - Intro to Deep Learning.png" width="250" /> 
-
+<img src="cert/Igor Gromov - Intro to Machine Learning.png" width="250" /> &nbsp; <img src="cert/Kaggle-Pandas.png" width="250" />  &nbsp; <img src="cert/Igor Gromov - Intro to Deep Learning.png" width="250" /> &nbsp; <img src="cert/Igor Gromov - Intermediate Machine Learning.png" width="250" /> 
 
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
@@ -83,6 +82,8 @@ Within this project, I work across multiple roles, including:
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media)
+
+
 ### Other AI-related Certificates
 
 - IBM AI Fundamentals
