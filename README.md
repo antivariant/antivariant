@@ -83,6 +83,11 @@ Within this project, I work across multiple roles, including:
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F059c9b5e8bad980032971b42cb35cb10%2FBadge-44.svg?generation=1727468322667890&alt=media)
 ![badge](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fbac00bdcf5aa52c077bef4d95da882f3%2FBadge-37.svg?generation=1727468352009252&alt=media)
 
+### HuggingFace (DL)
+
+<img src="cert/hf_ai_agent.webp" width="250" /> 
+
+
 
 ### Other AI-related Certificates
 
