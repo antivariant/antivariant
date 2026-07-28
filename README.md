@@ -49,6 +49,11 @@ Within this project, I work across multiple roles, including:
 
 ---
 
+### SkillUp Ethical Hacker
+<img src="cert/skillup_hacker.jpg" alt="SkillUp Ethical Hacker" width="250">
+
+---
+
 ### Crackmes.one (Reverse Engineering)
 [Crackmes.one Profile](https://crackmes.one/user/antivariantum)
 
