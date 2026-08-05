@@ -49,6 +49,11 @@ Within this project, I work across multiple roles, including:
 
 ---
 
+### OSINT by The Basel Institute on Governance
+<img src="cert/OSSIN1.jpg" alt="OSINT by The Basel Institute on Governance" width="250">
+
+---
+
 ### SkillUp Ethical Hacker
 <img src="cert/skillup_hacker.jpg" alt="SkillUp Ethical Hacker" width="250">
 
