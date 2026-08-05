@@ -50,7 +50,7 @@ Within this project, I work across multiple roles, including:
 ---
 
 ### OSINT by The Basel Institute on Governance
-<img src="cert/OSSIN1.jpg" alt="OSINT by The Basel Institute on Governance" width="250">
+<img src="cert/OSIN1.jpg" alt="OSINT by The Basel Institute on Governance" width="250">
 
 ---
 
