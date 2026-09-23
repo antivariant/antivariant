@@ -41,7 +41,7 @@ Within this project, I work across multiple roles, including:
 - **[i3 Keymap Overlay](https://github.com/antivariant/i3-keymap-overlay)** — An on-screen keyboard shortcut reference for Linux, displaying keybindings for i3, Kitty, Vim, tmux, and Yazi.
 - **[RP-Trainer](https://github.com/antivariant/rptraining)** — A tool for building datasets to fine-tune LLMs for role-playing using parameter-efficient fine-tuning (PEFT). An LLM generates a scene and an opening line, and you respond in character through dialogue and actions. Repeat the process for each of your characters to build a personalized fine-tuning dataset.
 - **My Codewars Solutions** — Solutions to programming challenges in [Python](https://github.com/antivariant/codewars-python), [JavaScript](https://github.com/antivariant/codewars-js), [C++, and MASM](https://github.com/antivariant/codewars-lowlevel).
-- **[Robot1](https://github.com/antivariant/robot1)** — An archived robotics project: the first version of a robotic platform developed using Arduino, SolidWorks, Simulink, and V-REP. (Project discontinued)
+- **[Robot1](https://github.com/antivariant/robot1)** — An archived robotics project: the first version of a platform robot, developed using Arduino, SolidWorks, Simulink, and V-REP. (Project discontinued)
 
 
 
