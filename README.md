@@ -30,6 +30,24 @@ Within this project, I work across multiple roles, including:
 
 ---
 
+## My projects in this repo
+
+- **[Local Model Comparison / Catalog](https://github.com/antivariant/local-ai-model-lab)** — A platform for managing and comparing local LLMs. Generates CLI commands for testing and prompts for LLM-as-a-Judge evaluations of reasoning and language quality. Built with a database and Streamlit, with extensive tests, metrics, and benchmarks. (MVP, in progress)
+- **[DOJO](https://github.com/antivariant/qa-demo-shop)** — An AI-powered training platform for QA/QC engineers and penetration testers. Test or hack the website, submit your bug reports, and receive AI-generated feedback on their quality. The platform contains predefined bugs and security vulnerabilities, similar to OWASP Juice Shop, but with AI-powered report evaluation. It can also be used to assess QA/QC and cybersecurity candidates during technical interviews. (MVP, in progress)
+- **[F.R.A.I.A](https://github.com/antivariant/aihome)** — An AI-powered smart home assistant combining ESP32 hardware, a camera, microphone, speaker, servos, a TFT display, and AI software. (MVP, refactoring)
+- **[QAC](https://github.com/antivariant/QAC)** — An online school ecosystem integrating a learning platform, CRM, email subscriptions, Camunda-powered business processes, an online store, and bookkeeping. (Private, development paused)
+- **[CompTrain](https://github.com/antivariant/comptrain)** — A music training app that teaches you to play chordal accompaniment (comping) using a compact 25-key MIDI keyboard and a songbook. Designed for iPhone, iPad, Android, web, and desktop. (MVP, in progress)
+- **[SuperHuman](https://github.com/antivariant/super-human)** — A mobile training app for developing extraordinary mental abilities, such as visualizing chess games and calculating checkmates mentally, developing perfect pitch, and more. Built with a plugin-based architecture. (MVP, in progress)
+- **[i3 Keymap Overlay](https://github.com/antivariant/i3-keymap-overlay)** — An on-screen keyboard shortcut reference for Linux, displaying keybindings for i3, Kitty, Vim, tmux, and Yazi.
+- **[RP-Trainer](https://github.com/antivariant/rptraining)** — A tool for building datasets to fine-tune LLMs for role-playing using parameter-efficient fine-tuning (PEFT). An LLM generates a scene and an opening line, and you respond in character through dialogue and actions. Repeat the process for each of your characters to build a personalized fine-tuning dataset.
+- **My Codewars Solutions** — Solutions to programming challenges in [Python](https://github.com/antivariant/codewars-python), [JavaScript](https://github.com/antivariant/codewars-js), [C++, and MASM](https://github.com/antivariant/codewars-lowlevel).
+- **[Robot1](https://github.com/antivariant/robot1)** — An archived robotics project: the first version of a robotic platform developed using Arduino, SolidWorks, Simulink, and V-REP. (Project discontinued)
+
+
+
+
+---
+
 ## 💪 Skill Development Journey (CTF, learning) 
 
 <h3> <img height="20" width="20" src="https://cdn.simpleicons.org/codewars"/> Codewars (Programming) </h3>
